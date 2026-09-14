@@ -17,5 +17,9 @@ This repository contains my submission for Week 2 of the Vortex Tech Data Scienc
 
 ## How to Run This Project
 1. Clone this repository to your local machine:
-   ```bash
    git clone <your-github-repo-url>
+2. Ensure you have Python installed along with the required data science libraries. Install dependencies using:
+ pip install pandas seaborn matplotlib jupyter
+3. Launch Jupyter Notebook in your terminal:
+jupyter notebook vortextech-datasci-week2-updated.ipynb
+4. Run all cells sequentially to view the visualizations and statistical analysis.
